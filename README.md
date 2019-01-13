@@ -11,5 +11,6 @@ This repo tries to gather some required features and scripts.
 
 I will update this repo frequently.
 
- - *(gogs-list.sql) A simple SQL query which lists all open issues with repository names and labels.
- - *(gogs.css) A draft of css file for RTL view and Using a Nice Persian Font (IRANSans). Dont forget tp replace this font (By a free one) or buy the liscence.
+ - `gogs-list.sql` is a simple SQL query which lists all open issues with repository names and labels.
+ - `gogs.css` is a draft of css file for RTL view and Using a Nice Persian Font (IRANSans).
+		Dont forget tp replace this font (By a free one) or buy the liscence. Replace this file in `public/css` folder
